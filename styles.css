@@ -45,6 +45,10 @@ h2:first-child {
   margin-top: 18px;
 }
 
+.align-left {
+  text-align: left;
+}
+
 .column-block {
   display: flex;
   justify-content: space-between;
